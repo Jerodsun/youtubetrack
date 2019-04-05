@@ -94,7 +94,7 @@ Some ideas for analyzing data for political effect.
     
     df.groupby(df["date"].dt.date).count().plot(kind="bar")
 
-![alt text](https://raw.githubusercontent.com/jerodsun/youtubetrack/Supporting/sample1.png)
+![alt text](Supporting/sample1.png?raw=true "Sample1")
 
 
 ### Another example:
