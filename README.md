@@ -19,9 +19,9 @@ https://developers.google.com/youtube/v3/getting-started
 #### Open secrets.py and replace the developer key.
 
 #### Sample Usage:
-trump = score_pull("Donald Trump")
-for video in trump:
-    print(video["title"])
+    trump = score_pull("Donald Trump")
+    for video in trump:
+        print(video["title"])
 
 ## Purpose: 
 
